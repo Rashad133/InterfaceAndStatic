@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StaticAndInterface_Task2_16.10/1.0.0": {
+        "runtime": {
+          "StaticAndInterface_Task2_16.10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticAndInterface_Task2_16.10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
